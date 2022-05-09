@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @david2061
-- 👀 I’m interested in addiction/learning and work at Ophelia.com, which is building amazing things to combat the opiod crisis.
+- 👀 I’m interested in addiction/learning and work at [Ophelia.com](https://ophelia.com), which is building amazing things to combat the opiod crisis.
 - 🌱 I’m currently learning Snowflake and Analytics Engineering
 - 💞️ I’m looking to collaborate on data science/data engineering projects related to telepsychiatry, especially in the addiction space.
 
